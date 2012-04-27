@@ -1,0 +1,15 @@
+{
+    "name": "rand-line",
+	"version": "0.1.0",
+	"author": "Chris Vickery <chrisinajar@gmail.com>",
+	"description": "Read random lines from a file",
+	"main": "./lib/index.js",
+	"dependencies" : {
+		"coffee-script": "*",
+		"jar-flow": "*"
+	},
+    "license": "MIT",
+    "engine": {
+    	"node": ">=0.6"
+	}
+}
